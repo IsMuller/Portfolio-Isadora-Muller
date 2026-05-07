@@ -1,10 +1,37 @@
 # capacita-FRONT-26-1
 
-## Links úteis
+## Guia para as Atividades
 
-[Notion]( https://www.notion.so/ecomp-ufpr/FRONT-END-REACT-1ee5fea3b92c8019beedca502a63fdd0)
+Para a atividade, vá para a branch atividade usando
 
-[Wiki](https://wiki-ecomp.ecomp.workers.dev/docs/Capacitações/Front/) 
+```
+git checkout atividades-modulo-1
+```
 
-[React](https://react.dev/learn)
+então crie a sua própria a partir dela
+
+```
+git checkout -b seunome-modulo1
+```
+
+entre na pasta atv-m1
+
+```
+cd atv-m1
+```
+
+dentro da pasta correta, instale os pacotes necessarios com
+
+```
+npm install
+```
+
+então rode o código com
+
+```
+npm run dev
+```
+
+NÃO de commit na branch `atividade`, ela serve como template para a atividade de todo mundo
+
 
