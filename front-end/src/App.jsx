@@ -1,21 +1,18 @@
-import './App.css'
+import React from 'react';
+import Header from './components/header';
+import Hero from './pages/hero';           
+import Images from './pages/Images';       
 
 function App() {
-
   return (
-    <>
-<div className="min-h-screen w-full flex items-center justify-center bg-gradient-to-r from-[#001b3d] via-[#006b69] to-[#00f2a6] bg-[length:400%_400%] animate-gradient-xy">
-      <div className="text-center">
-        <h1 className="text-4xl md:text-6xl font-bold text-white">
-          Bem-vindo à Capacitação de Front-end!!
-        </h1>
-        <p className="mt-4 text-slate-100 text-lg">
-          O seu futuro como dev começa aqui 😎
-        </p>
-        </div>
+    <div className="flex flex-col min-h-screen">
+      <Header /> 
+      <main>
+        <Hero />
+        <Images />
+      </main>
     </div>
-    </>
-  )
+  );
 }
 
-export default App
+export default App;
