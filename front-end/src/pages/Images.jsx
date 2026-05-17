@@ -14,10 +14,10 @@ export default function Images() {
   ];
 
   return (
-    <section className="w-full mt-10 px-4 pb-10 bg-transparent"> 
+    <section className="w-full mt-32 px-4 pb-20 bg-transparent"> 
       <div className="grid grid-cols-2 gap-4 w-full">
         {imagens.map((img) => (
-          <div key={img.id} className="relative h-[400px] overflow-hidden group shadow-lg">
+          <div key={img.id} className="relative h-[350px] overflow-hidden group shadow-lg">
             <img 
               src={img.src} 
               alt={`Galeria ${img.id}`} 

@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/header';
 import Hero from './pages/hero';           
 import Images from './pages/Images';       
+import Instagram from './pages/Instagram';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <main>
         <Hero />
         <Images />
+        <Instagram/>
       </main>
     </div>
   );
