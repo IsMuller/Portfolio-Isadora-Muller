@@ -3,6 +3,7 @@ import Header from './components/header';
 import Hero from './pages/hero';           
 import Images from './pages/Images';       
 import Instagram from './pages/Instagram';
+import ResearchHP from './pages/HarryPotter';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Hero />
         <Images />
         <Instagram/>
+        <ResearchHP/>
       </main>
     </div>
   );
