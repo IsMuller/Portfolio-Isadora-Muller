@@ -9,6 +9,6 @@ Este projeto foi desenvolvido durante a capacitação de Front-End da Ecomp, com
 - React
 - API
 
-- Durante o desenvolvimento, pude desenvolver habilidades como a criação de interfaces, componentização, estilização e a utilização de uma API.
+Durante o desenvolvimento, pude desenvolver habilidades como a criação de interfaces, componentização, estilização e a utilização de uma API.
 
 
