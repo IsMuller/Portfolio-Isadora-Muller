@@ -1,1 +1,1 @@
-# Portfolio-Isadora-Muller
+Em cada branch desse portfólio, possui todos os projetos que elaborei em meu primeiro e início do segundo período de faculdade esse ano cursando Ciência da Computação, seja em salas de aula ou com o aprendizado resultante do meu ingresso na Empresa Júnior de Computação da UFPR (Ecomp).
