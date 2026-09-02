@@ -1,12 +1,3 @@
-/* 
- * Tipos Abstratos de Dados - TADs
- * Arquivo de implementação para TAD racional.
- * Feito em 16/09/2024 para a disciplina CI1001 - Programação 1.
- *
- * Este arquivo deve conter as implementações das funções cujos protótipos
- * foram definidos em racional.h. Neste arquivo também podem ser definidas
- * funções auxiliares para facilitar a implementação daquelas funções.
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
