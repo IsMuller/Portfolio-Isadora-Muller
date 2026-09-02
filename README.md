@@ -1,1 +1,1 @@
-# Portfolio-Isadora-Muller
+Primeiro trabalho realizado em C no curso, na diciplina de Programação 1 no começo do segundo período. O trabalho consistia em criar um programa que gerasse dois números fracionários aleatórios e realizasse as operações básicas entre eles utilizando funções.
