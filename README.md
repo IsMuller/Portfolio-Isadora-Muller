@@ -1,1 +1,1 @@
-# Portfolio-Isadora-Muller
+Ambos os trabalhos foram realizados no primeiro período do curso na disciplina de Circuitos digitais. O trabalho 1 consistia em criar uma ULA utilizando apenas portas lógicas elementares (AND, OR, NOT) e o segundo trabalho consistia em criar um circuito de semáforos sincronizados pelo Clock.
